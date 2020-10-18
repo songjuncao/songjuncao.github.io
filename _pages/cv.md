@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in ocean acoustics, Xiamen University, 2007-2011
+* M.S. in signal and information processing, The Institute of Acoustics of the Chinese Academy of Sciences, 2011-2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2014.7-2017.7: Research
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
