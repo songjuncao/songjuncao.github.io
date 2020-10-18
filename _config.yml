@@ -85,10 +85,11 @@ author:
   bio              : "Senior Applied Researcher at Tencent"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  blog             : "https://blog.csdn.net/xmdxcsj"
   uri              :
   bitbucket        :
   codepen          :
