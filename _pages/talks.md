@@ -1,5 +1,5 @@
 ---
-title: "Talks and Competition"
+title: "Talks&Competitions"
 permalink: /talks/
 author_profile: true
 ---
