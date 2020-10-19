@@ -1,16 +1,23 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2020
+* <b>Multi-head Monotonic Chunkwise Attention For Online Speech Recognition</b>. <br>
+Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i>arXiv preprint arXiv:2005.00205 (2020).</i>. <br>
+* <b>语音处理方法、装置、计算机可读存储介质及电子设备</b>. <br>
+<b>曹松军</b>,马龙. <i>patent.</i>. <br>
+* <b>一种模型训练方法和相关装置</b>. <br>
+<b>曹松军</b>,马龙. <i>patent.</i>. <br>
 
-{% include base_path %}
+## 2019
+* <b>语音识别方法及装置、介质和设备</b>. <br>
+刘柏基,<b>曹松军</b>. <i>patent.</i>. <br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2015
+* <b>一种针对停顿的语音识别方法和装置</b>. <br>
+<b>曹松军</b>. <i>patent.</i>. <br>
+* <b>一种基于语音识别的文本处理方法和装置</b>. <br>
+<b>曹松军</b>. <i>patent.</i>. <br>
