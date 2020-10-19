@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 Education
 ======
@@ -24,6 +24,6 @@ Work experience
 
 * 2017.7-Now: Senior Applied Researcher
   * Tencent Cloud Xiaowei
-  * Products: [Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Internet of Vehicles](https://cloud.tencent.com/solution/auto), Tencent Map
+  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), Tencent Map
   * Duties included: Speech Recognition, Speaker Recognition
   * Supervisor: Long Ma 
