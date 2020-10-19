@@ -19,7 +19,7 @@ Work experience
 * 2014.7-2017.7: Speech Engineer
   * Qihoo360 AI Institute
   * Products: [360 search](https://www.so.com/), 360 children watch, 360 children robot, 360 camera, [palm input](http://www.xinshuru.com/win_record.html)
-  * Duties included: Speech recognition
+  * Duties included: Speech recognition, Speech event detection
   * Supervisor: Lu Qi, Zhanlei Yang, Shuicheng Yan
 
 * 2017.7-Now: Senior Applied Researcher
