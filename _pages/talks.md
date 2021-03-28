@@ -4,6 +4,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2021
+* <b>Talk: [Improving Speech Recognition Accuracy Of Local Poi Using Geographical Models](https://slideslive.com/38951575/improving-speech-recognition-accuracy-of-local-poi-using-geographical-models)</b>. <br>
+Jan 19, 2021 <br>
+IEEE SLT 2021 <br>
+
 ## 2020
 * <b>Competition: [Interspeech2020 Accented English Speech Recognition](https://www.datatang.com/INTERSPEECH2020)</b>. <br>
 Track: track2 <br>

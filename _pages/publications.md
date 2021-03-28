@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2021
+* <b>Improving speech recognition accuracy of local poi using geographical models</b>. <br>
+<b>Songjun Cao</b>, Yike Zhang, Xiaobing Feng, Long Ma. <i>2021 IEEE Spoken Language Technology Workshop (SLT). IEEE, 2021</i>. <br>
+
 ## 2020
 * <b>Multi-head Monotonic Chunkwise Attention For Online Speech Recognition</b>. <br>
 Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i>arXiv preprint arXiv:2005.00205 (2020)</i>. <br>
