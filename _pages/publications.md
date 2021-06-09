@@ -9,7 +9,7 @@ author_profile: true
 * <b>Improving Streaming Transformer Based ASR Under a Framework of Self-supervised Learning </b>. <br>
 <b>Songjun Cao</b>, Yueteng Kang, Yanzhe Fu, Xiaoshuo Xu, Sining Sun, Yike Zhang, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Improving Accent Identification and Accented Speech Recognition Under a Framework of Self-supervised Learning</b>. <br>
-Keqi Deng, <b>Songjun Cao</b>, Long Ma. <i>INTERSPEECH 2021</i>. <br>
+<b>Keqi Deng, Songjun Cao(co-first authors)</b>, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Explore Wav2vec 2.0 for Mispronunciation Detection </b>. <br>
 Xiaoshuo Xu, Yueteng Kang, <b>Songjun Cao</b>, Binghuai Lin, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Improving speech recognition accuracy of local poi using geographical models</b>. <br>
