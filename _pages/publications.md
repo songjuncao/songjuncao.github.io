@@ -6,14 +6,16 @@ author_profile: true
 
 
 ## Papers
+* <b>Improving hybrid CTC/Attention end-to-end speech recognition with pretrained acoustic and language models</b>. <br>
+Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>submitted to ASRU 2021</i>. <br>
 * <b>Improving Streaming Transformer Based ASR Under a Framework of Self-supervised Learning </b>. <br>
 <b>Songjun Cao</b>, Yueteng Kang, Yanzhe Fu, Xiaoshuo Xu, Sining Sun, Yike Zhang, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Improving Accent Identification and Accented Speech Recognition Under a Framework of Self-supervised Learning</b>. <br>
-Keqi Deng, <b>Songjun Cao(co-first authors)</b>, Long Ma. <i>INTERSPEECH 2021</i>. <br>
+Keqi Deng*, <b>Songjun Cao*</b>, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Explore Wav2vec 2.0 for Mispronunciation Detection </b>. <br>
 Xiaoshuo Xu, Yueteng Kang, <b>Songjun Cao</b>, Binghuai Lin, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Improving speech recognition accuracy of local poi using geographical models</b>. <br>
-<b>Songjun Cao</b>, Yike Zhang, Xiaobing Feng, Long Ma. <i>2021 IEEE Spoken Language Technology Workshop (SLT). IEEE, 2021</i>. <br>
+<b>Songjun Cao*</b>, Yike Zhang*, Xiaobing Feng, Long Ma. <i>2021 IEEE Spoken Language Technology Workshop (SLT). IEEE, 2021</i>. <br>
 * <b>Multi-head Monotonic Chunkwise Attention For Online Speech Recognition</b>. <br>
 Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i>arXiv preprint arXiv:2005.00205 (2020)</i>. <br>
 
