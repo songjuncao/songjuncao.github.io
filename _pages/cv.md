@@ -32,3 +32,4 @@ Work experience
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning,
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://ece.nus.edu.sg/hlt/faculty/)
   * Supervisor: Long Ma
+  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/)
