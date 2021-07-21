@@ -25,7 +25,7 @@ Work experience
     * Speech2Sing: A joint project with [A*STAR](https://www.a-star.edu.sg/), supervised by [Shuicheng Yan](https://www.linkedin.com/in/shuicheng-yan-123a866/?originalSubdomain=sg)
   * Supervisor: Lu Qi, Zhanlei Yang
 
-* 2017.7-Now: Senior Applied Researcher
+* 2017.7-Now: Senior Applied Researcher, Executive Member of CSIG Rank Evaluation Committee
   * Tencent Cloud Xiaowei
   * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/)
   * Duties included:
