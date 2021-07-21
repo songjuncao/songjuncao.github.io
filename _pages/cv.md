@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* 2014.7-2017.7: Speech Engineer
-  * Qihoo360 AI Institute
+* 2014.7-2017.7: AI Institute, **Qihoo360**
+  * Speech Engineer
   * Products: [360 search](https://www.so.com/), [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02), [palm input](http://www.xinshuru.com/win_record.html)
   * Duties included:
     * Speech recognition: LM training, Decoder development, AM training(CTC)
@@ -25,8 +25,8 @@ Work experience
     * Speech2Sing: A joint project with [A*STAR](https://www.a-star.edu.sg/), supervised by [Shuicheng Yan](https://www.linkedin.com/in/shuicheng-yan-123a866/?originalSubdomain=sg)
   * Supervisor: Lu Qi, Zhanlei Yang
 
-* 2017.7-Now: Senior Applied Researcher, Executive Member of CSIG Rank Evaluation Committee
-  * Tencent Cloud Xiaowei
+* 2017.7-Now: Cloud Xiaowei, **Tencent**
+  * Senior Applied Researcher, Executive Member of Tencent CSIG Rank Evaluation Committee
   * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/)
   * Duties included:
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning,
