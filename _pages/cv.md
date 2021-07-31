@@ -26,7 +26,7 @@ Work experience
   * Supervisor: Lu Qi, Zhanlei Yang
 
 * 2017.7-Now: Cloud Xiaowei, **Tencent**
-  * Senior Applied Researcher, Executive Member of Tencent CSIG Rank Evaluation Committee
+  * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
   * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/)
   * Duties included:
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning,
