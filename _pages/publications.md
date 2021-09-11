@@ -5,9 +5,11 @@ author_profile: true
 ---
 
 
-## Papers
+## Papers(* means equal contribution)
+* <b>IMPROVING CTC-BASED SPEECH RECOGNITION VIA KNOWLEDGE TRANSFERRING FROM PRE-TRAINED LANGUAGE MODELS</b>. <br>
+Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>submitted to ICASSP 2022</i>. <br>
 * <b>Improving hybrid CTC/Attention end-to-end speech recognition with pretrained acoustic and language models</b>. <br>
-Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>submitted to ASRU 2021</i>. <br>
+Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>ASRU 2021</i>. <br>
 * <b>Improving Streaming Transformer Based ASR Under a Framework of Self-supervised Learning </b>. <br>
 <b>Songjun Cao</b>, Yueteng Kang, Yanzhe Fu, Xiaoshuo Xu, Sining Sun, Yike Zhang, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Improving Accent Identification and Accented Speech Recognition Under a Framework of Self-supervised Learning</b>. <br>
