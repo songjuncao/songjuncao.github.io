@@ -6,6 +6,8 @@ author_profile: true
 
 
 ## Papers(* means equal contribution)
+* <b>CENSER: AN INTEGRATED AND PROGRESSIVE APPROACH FOR SEMI-SUPERVISED SPEECH RECOGNITION</b>. <br>
+Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i>submitted to ICME 2022</i>. <br>
 * <b>IMPROVING CTC-BASED SPEECH RECOGNITION VIA KNOWLEDGE TRANSFERRING FROM PRE-TRAINED LANGUAGE MODELS</b>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>submitted to ICASSP 2022</i>. <br>
 * <b>Improving hybrid CTC/Attention end-to-end speech recognition with pretrained acoustic and language models</b>. <br>
