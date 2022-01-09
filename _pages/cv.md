@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2014.7-2017.7: AI Institute, **Qihoo360**
-  * Speech Engineer
+  * Speech Researcher
   * Products: [360 search](https://www.so.com/), [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02), [palm input](http://www.xinshuru.com/win_record.html)
   * Duties included:
     * Speech recognition: LM training, Decoder development, AM training(CTC)
