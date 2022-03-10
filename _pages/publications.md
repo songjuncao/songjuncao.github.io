@@ -8,13 +8,13 @@ author_profile: true
 * ISCA reviewer
 
 ## Papers(* means equal contribution)
-* <b>CENSER: AN INTEGRATED AND PROGRESSIVE APPROACH FOR SEMI-SUPERVISED SPEECH RECOGNITION</b>. <br>
+* <b>CENSER: an Intergrated and Progressive Approach for Semi-supervised Speech Recognition</b>. <br>
 Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i>submitted to Interspeech 2022</i>. <br>
-* <b>IMPROVING CTC-BASED SPEECH RECOGNITION VIA KNOWLEDGE TRANSFERRING FROM PRE-TRAINED LANGUAGE MODELS</b>. <br>
+* <b>Improving CTC-based Speech Recognition via Knowledge Transferring from Pre-trained Language Models</b>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma, Gaofeng Cheng, Ji Xu, Pengyuan Zhang. <i>ICASSP 2022</i>. <br>
-* <b>A practical framework for multi-domain speech recognition and an instance sampling method to neural language modeling</b>. <br>
+* <b>A Practical Framework for Multi-domain Speech Recognition and an Instance Sampling Method to Neural Language Modeling</b>. <br>
 Yike Zhang, Xiaobing Feng, Yi Liu, <b>Songjun Cao</b>, Long Ma. <i>arXiv 2021</i>. <br>
-* <b>Improving hybrid CTC/Attention end-to-end speech recognition with pretrained acoustic and language models</b>. <br>
+* <b>Improving Hybrid CTC/Attention End-to-end Speech Recognition with Pretrained Acoustic and Language Models</b>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>ASRU 2021</i>. <br>
 * <b>Improving Streaming Transformer Based ASR Under a Framework of Self-supervised Learning </b>. <br>
 <b>Songjun Cao</b>, Yueteng Kang, Yanzhe Fu, Xiaoshuo Xu, Sining Sun, Yike Zhang, Long Ma. <i>INTERSPEECH 2021</i>. <br>
@@ -22,7 +22,7 @@ Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma. <i>ASRU 2021</i>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Long Ma. <i>INTERSPEECH 2021</i>. <br>
 * <b>Explore Wav2vec 2.0 for Mispronunciation Detection </b>. <br>
 Xiaoshuo Xu, Yueteng Kang, <b>Songjun Cao</b>, Binghuai Lin, Long Ma. <i>INTERSPEECH 2021</i>. <br>
-* <b>Improving speech recognition accuracy of local poi using geographical models</b>. <br>
+* <b>Improving Speech Recognition Accuracy of Local Poi Using Geographical Models</b>. <br>
 <b>Songjun Cao* </b>, Yike Zhang*, Xiaobing Feng, Long Ma. <i>2021 IEEE Spoken Language Technology Workshop (SLT). IEEE, 2021</i>. <br>
 * <b>Multi-head Monotonic Chunkwise Attention For Online Speech Recognition</b>. <br>
 Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i>arXiv preprint arXiv:2005.00205 (2020)</i>. <br>
