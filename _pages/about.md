@@ -13,4 +13,4 @@ I am interested in speech recoginition, speaker recogintion, signal processing a
 
 I may write something once in a while. If you are interested, just scan the above QR code with wechat and follow my **WeChat Subscription**.
 
-**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.
+[//]: <> (**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.)
