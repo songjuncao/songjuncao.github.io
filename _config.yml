@@ -90,7 +90,7 @@ author:
   email            : "xmdxcsj@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   blog             : "https://blog.csdn.net/xmdxcsj"
-  uri              : "https://www.zhihu.com/people/xmdxcsj"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  zhihu            : "https://www.zhihu.com/people/xmdxcsj"
 
 # Reading Files
 include:
