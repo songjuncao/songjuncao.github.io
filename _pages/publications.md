@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Academic service
-* Reviewer for INTERSPEECH
+* Reviewer for Interspeech
 
 ## Papers(* means equal contribution)
 * <b>CENSER: an Intergrated and Progressive Approach for Semi-supervised Speech Recognition</b>. <br>
