@@ -8,7 +8,7 @@ author_profile: true
 * Reviewer for Interspeech
 
 ## Papers(* means equal contribution)
-* <b>CENSER: an Intergrated and Progressive Approach for Semi-supervised Speech Recognition</b>. <br>
+* <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
 Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i>submitted to Interspeech 2022</i>. <br>
 * <b>Improving CTC-based Speech Recognition via Knowledge Transferring from Pre-trained Language Models</b>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma, Gaofeng Cheng, Ji Xu, Pengyuan Zhang. <i><b>ICASSP 2022</b></i>. <br>
