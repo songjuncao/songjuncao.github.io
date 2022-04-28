@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 ## Academic service
-* Reviewer for Interspeech
+* Reviewer
+  * International Speech Communication Association (Interspeech)
+  * ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
 
 ## Papers(* means equal contribution)
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
