@@ -8,6 +8,9 @@ author_profile: true
 * Reviewer
   * International Speech Communication Association (Interspeech)
   * ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+* Academic Membership
+  * IEEE/IEEE-SPS (Signal Processing Society)
+  * ISCA (International Speech Communication Association)
 
 ## Papers(* means equal contribution)
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
