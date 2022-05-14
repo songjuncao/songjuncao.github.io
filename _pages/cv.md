@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in ocean acoustics, **Xiamen University**, 2007-2011
 * M.S. in signal and information processing, **The Institute of Acoustics of the Chinese Academy of Sciences**, 2011-2014
 
-Work experience
-======
+## Work experience
 * 2014.7-2017.7: AI Institute, **Qihoo360**
   * Speech Researcher
   * Products: [360 search](https://www.so.com/), [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02), [palm input](http://www.xinshuru.com/win_record.html)
