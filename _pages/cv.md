@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 * B.S. in ocean acoustics, **Xiamen University**, 2007-2011
 * M.S. in signal and information processing, **The Institute of Acoustics of the Chinese Academy of Sciences**, 2011-2014
