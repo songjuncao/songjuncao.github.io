@@ -14,7 +14,7 @@ May 19, 2022 <br>
 April 29, 2021 <br>
 数美科技 <br>
 
-* <b>Talk: Improving Speech Recognition Accuracy Of Local Poi Using Geographical Models[\[video\]](https://slideslive.com/38951575/improving-speech-recognition-accuracy-of-local-poi-using-geographical-models)</b>. <br>
+* <b>Talk: Improving Speech Recognition Accuracy Of Local Poi Using Geographical Models[\[video\]](https://slideslive.com/38951575/improving-speech-recognition-accuracy-of-local-poi-using-geographical-models) [\[pdf\]](https://drive.google.com/file/d/1A0JQ90zU2jqLfcRk-fPXzgCZCib2N3LW/view?usp=sharing)</b>. <br>
 Jan 19, 2021 <br>
 IEEE SLT 2021 <br>
 
@@ -23,7 +23,7 @@ IEEE SLT 2021 <br>
 Track: track2 <br>
 Ranking: <b> 1/40 </b> <br>
 
-* <b>Talk: To build a robust ASR system in car [\[video\]](https://cloud.tencent.com/developer/salon/live-1246?channel=banner)</b>. <br>
+* <b>Talk: To build a robust ASR system in car [\[video\]](https://cloud.tencent.com/developer/salon/live-1246?channel=banner) [\[pdf\]](https://drive.google.com/file/d/1Dg2LRR-3vERf-2zPZqqjcgXQYKKs1FSs/view?usp=sharing)</b>. <br>
 July 11, 2020 <br>
 Tencent Beijing Headquarters, Beijing, China <br>
 
