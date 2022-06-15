@@ -14,7 +14,7 @@ author_profile: true
 
 ## Papers(* means equal contribution)
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
-Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i>submitted to Interspeech 2022</i>. <br>
+Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i><b>INTERSPEECH 2022</b></i>. <br>
 * <b>Improving CTC-based Speech Recognition via Knowledge Transferring from Pre-trained Language Models</b>. <br>
 Keqi Deng*, <b>Songjun Cao*</b>, Yike Zhang, Long Ma, Gaofeng Cheng, Ji Xu, Pengyuan Zhang. <i><b>ICASSP 2022</b></i>. <br>
 * <b>A Practical Framework for Multi-domain Speech Recognition and an Instance Sampling Method to Neural Language Modeling</b>. <br>
