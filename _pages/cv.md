@@ -20,9 +20,9 @@ author_profile: true
 
 * 2017.7-Now: Cloud Xiaowei, **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
-  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/)
+  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), Telephone Customer Service
   * Duties included:
-    * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning,
+    * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://ece.nus.edu.sg/hlt/faculty/)
   * Supervisor: Long Ma
   * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/)
