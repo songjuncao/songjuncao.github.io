@@ -12,7 +12,7 @@ author_profile: true
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
 
-## Papers(* means equal contribution)
+## Papers
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
 Bowen Zhang*, <b>Songjun Cao*</b>, Xiaoming Zhang, Yike Zhang, Long Ma, Takahiro Shinozaki. <i><b>INTERSPEECH 2022</b></i>. <br>
 * <b>Improving CTC-based Speech Recognition via Knowledge Transferring from Pre-trained Language Models</b>. <br>
