@@ -8,6 +8,7 @@ author_profile: true
 * Reviewer
   * International Speech Communication Association (Interspeech)
   * ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+  * National Conference on Man-Machine Speech Communication (NCMMSC)
 <!--* Academic Membership-->
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
