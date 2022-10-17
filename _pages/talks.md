@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## 2022
+* <b>Invited Talk: 低资源方言语音识别系统 [\[pdf\]](https://drive.google.com/file/d/1miZ_00iVl3NwRKsyTMfKjOyvRM2alAa2/view?usp=sharing)</b>. <br>
+Oct 16, 2022 <br>
+海南大学&海经贸 <br>
+
 * <b>Invited Talk: 语音识别预训练技术发展和应用 [\[video\]](https://www.xiong99.com.cn/page/1445408?navIndex=1) [\[pdf\]](https://drive.google.com/file/d/1VR6wJwF6FKI6DqmypPsJe_UtCferV-l3/view?usp=sharing)</b>. <br>
 May 19, 2022 <br>
 狗熊会 <br>
