@@ -15,6 +15,7 @@ My research interests include speech recoginition, speaker recogintion, signal p
 <!--**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.-->
 
 ## News
+- 2022-11: Rank as the **2nd** place in **Speech Security Inspection Competition**
 - 2022-06: One paper accepted by **Interspeech 2022**
 - 2022-05: A talk named **"Introduction to automatic speech recognition and speech self-supervised learning"**, organised by GouXiongHui.
 - 2022-01: One paper accepted by **ICASSP 2022**
