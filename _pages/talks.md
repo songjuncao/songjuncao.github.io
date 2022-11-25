@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## 2022
+* <b>Competition: speech security inspection</b>. <br>
+Nov, 2022 <br>
+Ranking: <b> 2/25 </b> <br>
+
 * <b>Invited Talk: 低资源方言语音识别系统 [\[pdf\]](https://drive.google.com/file/d/1miZ_00iVl3NwRKsyTMfKjOyvRM2alAa2/view?usp=sharing)</b>. <br>
 Oct 16, 2022 <br>
 海南大学&海经贸 <br>
