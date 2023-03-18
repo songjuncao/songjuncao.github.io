@@ -9,11 +9,11 @@ author_profile: true
 Nov, 2022 <br>
 Ranking: <b> 1/25 </b> <br>
 
-* <b>Invited Talk: 低资源方言语音识别系统 [\[pdf\]](https://drive.google.com/file/d/1miZ_00iVl3NwRKsyTMfKjOyvRM2alAa2/view?usp=sharing)</b>. <br>
+* <b>Invited Talk: 低资源方言语音识别系统 [\[pdf\]](https://songjuncao.github.io/files/低资源方言语音识别系统.pdf)</b>. <br>
 Oct 16, 2022 <br>
 海南大学&海经贸 <br>
 
-* <b>Invited Talk: 语音识别预训练技术发展和应用 [\[video\]](https://www.xiong99.com.cn/page/1445408?navIndex=1) [\[pdf\]](https://drive.google.com/file/d/1VR6wJwF6FKI6DqmypPsJe_UtCferV-l3/view?usp=sharing)</b>. <br>
+* <b>Invited Talk: 语音识别预训练技术发展和应用 [\[video\]](https://www.xiong99.com.cn/page/1445408?navIndex=1) [\[pdf\]](https://songjuncao.github.io/files/语音识别预训练技术的发展和应用.pdf)</b>. <br>
 May 19, 2022 <br>
 狗熊会 <br>
 
@@ -22,7 +22,7 @@ May 19, 2022 <br>
 April 29, 2021 <br>
 数美科技 <br>
 
-* <b>Talk: Improving Speech Recognition Accuracy Of Local Poi Using Geographical Models[\[video\]](https://slideslive.com/38951575/improving-speech-recognition-accuracy-of-local-poi-using-geographical-models) [\[pdf\]](https://drive.google.com/file/d/1A0JQ90zU2jqLfcRk-fPXzgCZCib2N3LW/view?usp=sharing)</b>. <br>
+* <b>Talk: Improving Speech Recognition Accuracy Of Local Poi Using Geographical Models[\[video\]](https://slideslive.com/38951575/improving-speech-recognition-accuracy-of-local-poi-using-geographical-models) [\[pdf\]](https://songjuncao.github.io/files/SLT2021_presentation.pdf)</b>. <br>
 Jan 19, 2021 <br>
 IEEE SLT 2021 <br>
 
@@ -31,7 +31,7 @@ IEEE SLT 2021 <br>
 Track: track2 <br>
 Ranking: <b> 1/40 </b> <br>
 
-* <b>Talk: To build a robust ASR system in car [\[video\]](https://cloud.tencent.com/developer/salon/live-1246?channel=banner) [\[pdf\]](https://drive.google.com/file/d/1Dg2LRR-3vERf-2zPZqqjcgXQYKKs1FSs/view?usp=sharing)</b>. <br>
+* <b>Talk: To build a robust ASR system in car [\[video\]](https://cloud.tencent.com/developer/salon/live-1246?channel=banner) [\[pdf\]](https://songjuncao.github.io/files/构建鲁棒的车载语音识别系统_final.pdf)</b>. <br>
 July 11, 2020 <br>
 Tencent Beijing Headquarters, Beijing, China <br>
 
