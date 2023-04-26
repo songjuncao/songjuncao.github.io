@@ -7,7 +7,7 @@ author_profile: true
 ## Academic service
 * Reviewer
   * Transactions on Audio, Speech and Language Processing (TASLP)
-  * ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+  * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
 <!--* Academic Membership-->
