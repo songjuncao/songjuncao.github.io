@@ -10,6 +10,7 @@ author_profile: true
   * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
+  * Engineering Applications of Artificial Intelligence (EAAI)
 <!--* Academic Membership-->
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
