@@ -6,6 +6,7 @@ author_profile: true
 
 ## Academic service
 * Reviewer
+  * JASA Express Letters
   * Transactions on Audio, Speech and Language Processing (TASLP)
   * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
   * International Speech Communication Association (Interspeech)
