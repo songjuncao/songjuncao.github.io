@@ -3,12 +3,12 @@ title: "Talks&Competitions"
 permalink: /talks/
 author_profile: true
 ---
-
-## 2022
+## 2023
 * <b>Competition: Speech Security Inspection</b>. <br>
-Nov, 2022 <br>
+Jan, 2023 <br>
 Ranking: <b> 1/25 </b> <br>
 
+## 2022
 * <b>Invited Talk: 低资源方言语音识别系统 [\[pdf\]](https://songjuncao.github.io/files/低资源方言语音识别系统.pdf)</b>. <br>
 Oct 16, 2022 <br>
 海南大学&海经贸 <br>
