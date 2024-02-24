@@ -12,6 +12,7 @@ author_profile: true
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
   * Engineering Applications of Artificial Intelligence (EAAI)
+* Executive Committee of Speech Dialogue and Auditory Processing，CCF
 <!--* Academic Membership-->
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
