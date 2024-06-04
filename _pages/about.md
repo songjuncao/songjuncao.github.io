@@ -15,6 +15,7 @@ My research interests include speech recoginition, speaker recogintion, signal p
 <!--**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.-->
 
 ## News
+- 2024-06: One paper accepted by **Interspeech 2024**
 - 2024-02: **Executive Committee** of CCF TCSDAP
 - 2023-01: Rank as the **1st** place in **Speech Security Inspection Competition**
 - 2022-06: One paper accepted by **Interspeech 2022**
