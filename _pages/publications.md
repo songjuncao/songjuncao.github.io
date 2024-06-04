@@ -19,7 +19,7 @@ author_profile: true
 
 ## Papers
 * <b>A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition</b>. <br>
-Yangze Li\*, Xiong Wang\*, <b>Songjun Cao</b>, Yike Zhang, Long Ma. <i><b>INTERSPEECH 2024</b></i>. <br>
+Yangze Li\*, Xiong Wang\*, <b>Songjun Cao</b>, Yike Zhang, Long Ma, Lei Xie. <i><b>INTERSPEECH 2024</b></i>. <br>
 * <b>DistillW2V2: A Small and Streaming Wav2vec 2.0 Based ASR Model</b>. <br>
 Yanzhe Fu\*, Yueteng Kang\*, <b>Songjun Cao</b>, Long Ma. <i><b>arXiv 2023</b></i>. <br>
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
