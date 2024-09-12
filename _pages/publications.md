@@ -9,7 +9,7 @@ author_profile: true
   * JASA Express Letters
   * Transactions on Audio, Speech and Language Processing (TASLP)
   * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
-  * IEEE International Conference on Acoustics, Speech and Signal Processing
+  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
   * Engineering Applications of Artificial Intelligence (EAAI)
