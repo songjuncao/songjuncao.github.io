@@ -9,6 +9,7 @@ author_profile: true
   * JASA Express Letters
   * Transactions on Audio, Speech and Language Processing (TASLP)
   * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
   * Engineering Applications of Artificial Intelligence (EAAI)
@@ -19,7 +20,7 @@ author_profile: true
 
 ## Papers
 * <b>A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition</b>. <br>
-Yangze Li\*, Xiong Wang\*, <b>Songjun Cao</b>, Yike Zhang, Long Ma. <i><b>INTERSPEECH 2024</b></i>. <br>
+Yangze Li\*, Xiong Wang\*, <b>Songjun Cao</b>, Yike Zhang, Long Ma, Lei Xie. <i><b>INTERSPEECH 2024</b></i>. <br>
 * <b>DistillW2V2: A Small and Streaming Wav2vec 2.0 Based ASR Model</b>. <br>
 Yanzhe Fu\*, Yueteng Kang\*, <b>Songjun Cao</b>, Long Ma. <i><b>arXiv 2023</b></i>. <br>
 * <b>Censer: Curriculum Semi-supervised Learning for Speech Recognition Based on Self-supervised Pre-training</b>. <br>
