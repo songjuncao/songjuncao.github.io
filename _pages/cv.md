@@ -14,7 +14,8 @@ author_profile: true
 ## Work experience
 * 2017.7-Now: Cloud Xiaowei, **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
-  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), Telephone Customer Service, [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
+  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
+<!-- Telephone Customer Service -->
   * Duties included:
     * Speech Generation: Voice Conversion, Zero-shot TTS
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
