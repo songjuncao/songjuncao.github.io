@@ -42,6 +42,7 @@ Xiaoshuo Xu, Yueteng Kang, <b>Songjun Cao</b>, Binghuai Lin, Long Ma. <i><b>INTE
 * <b>Multi-head Monotonic Chunkwise Attention For Online Speech Recognition</b>. <br>
 Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i><b>arXiv 2020</b></i>. <br>
 
+<!--
 ## Patents
 * <b>一种非自回归的语音识别改进方案</b>. <br>
 邓克琦,<b>曹松军</b>,马龙. <i>中国专利</i>. <br>
@@ -73,3 +74,4 @@ Baiji Liu, <b>Songjun Cao</b>, Sining Sun, Weibin Zhang, Long Ma. <i><b>arXiv 20
 <b>曹松军</b>. <i>中国专利</i>. <br>
 * <b>一种基于语音识别的文本处理方法和装置</b>. <br>
 <b>曹松军</b>. <i>中国专利</i>. <br>
+-->
