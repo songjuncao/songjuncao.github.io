@@ -13,12 +13,17 @@ author_profile: true
   * International Speech Communication Association (Interspeech)
   * National Conference on Man-Machine Speech Communication (NCMMSC)
   * Engineering Applications of Artificial Intelligence (EAAI)
+  * International Joint Conference on Neural Networks (IJCNN)
 * Executive Committee of CCF TCSDAP （Speech Dialogue and Auditory Processing）
 <!--* Academic Membership-->
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
 
 ## Papers
+* <b>DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models</b>. <br>
+Weihao Wu\*, Zhiwei Lin\*, Yixuan Zhou, Jingbei Li, Rui Niu, Qinghua Wu, <b>Songjun Cao</b>, Long Ma, Zhiyong Wu. <i><b>ICASSP 2025</b></i>. <br>
+* <b>M-MoE: Mixture of Mixture-of-Expert Model for CTC-based Streaming Multilingual ASR</b>. <br>
+<b>Songjun Cao</b>, Xiong Wang, Yike Zhang, Xiaoming Zhang, Long Ma. <i><b>ICASSP 2025</b></i>. <br>
 * <b>A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition</b>. <br>
 Yangze Li\*, Xiong Wang\*, <b>Songjun Cao</b>, Yike Zhang, Long Ma, Lei Xie. <i><b>INTERSPEECH 2024</b></i>. <br>
 * <b>DistillW2V2: A Small and Streaming Wav2vec 2.0 Based ASR Model</b>. <br>
