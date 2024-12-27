@@ -10,7 +10,7 @@ redirect_from:
 ## Brief Bio
 <!--![ref](https://songjuncao.github.io/files/gongzhonghao.jpg) -->
 
-My research interests include speech understanding, speech generation and multi-modal. I have been trying to deal with the real products' challenge while maintaining interest in the academic research work.
+My research interests include speech understanding, speech generation, multi-modal and LLM. I have been trying to deal with the real products' challenge while maintaining interest in the academic research work.
 <!-- I may write something once in a while. If you are interested, just scan the above QR code with wechat and follow my **WeChat Subscription**. -->
 <!--One of my ambition is to **gracefully** solve products' challenge with **new algorithms**.-->
 <!--**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.-->
