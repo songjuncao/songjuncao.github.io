@@ -12,11 +12,12 @@ author_profile: true
 
 
 ## Work experience
-* 2017.7-Now: Cloud Xiaowei, **Tencent**
+* 2017.7-Now: **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
-  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
+  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh), [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams), [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)
 <!-- Telephone Customer Service -->
   * Duties included:
+    * LLM application: Hunyuan LLM for education
     * Speech Generation: Voice Conversion, Zero-shot TTS
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
