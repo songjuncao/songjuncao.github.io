@@ -14,23 +14,33 @@ author_profile: true
 ## Work experience
 * 2017.7-Now: **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
-  * Products: [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html), [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto), [Tencent Map](https://map.qq.com/), [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh), [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams), [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)
+  * Products:
+    * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)
+    * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams)
+    * [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
+    * [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)
+    * [Tencent Map](https://map.qq.com/)
+    * [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html)
+    
 <!-- Telephone Customer Service -->
   * Duties included:
     * LLM application: Hunyuan LLM for education
     * Speech/Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech Detection
     * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
-    * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
+    * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
   * Supervisor: Long Ma
   * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/)
 
 * 2014.7-2017.7: AI Institute, **Qihoo360**
   * Speech Researcher
-  * Products: [360 search](https://www.so.com/), [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02), [palm input](http://www.xinshuru.com/win_record.html)
+  * Products:
+    * [360 search](https://www.so.com/)
+    * [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02)
+    * [palm input](http://www.xinshuru.com/win_record.html)
   * Duties included:
-    * Speech recognition: LM training, Decoder development, AM training(CTC)
-    * Speech event detection: Detection of baby crying
+    * Speech recognition: LM training, AM training, Decoder development
+    * Sound event detection: Detection of baby crying
     * Speech2Sing: A joint project with [A*STAR](https://www.a-star.edu.sg/), supervised by [Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN)
   * Supervisor: Lu Qi, Zhanlei Yang
 
