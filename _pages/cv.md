@@ -21,8 +21,6 @@ author_profile: true
     * [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)
     * [Tencent Map](https://map.qq.com/)
     * [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html)
-    
-<!-- Telephone Customer Service -->
   * Duties included:
     * LLM application: Hunyuan LLM for education
     * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
