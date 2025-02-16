@@ -18,7 +18,8 @@ author_profile: true
 <!-- Telephone Customer Service -->
   * Duties included:
     * LLM application: Hunyuan LLM for education
-    * Speech Generation: Voice Conversion, Zero-shot TTS
+    * Speech/Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech Detection
+    * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
     * Speech Recognition: AM training, E2E ASR, VAD, Self-supervised learning, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
   * Supervisor: Long Ma
