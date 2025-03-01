@@ -28,7 +28,7 @@ author_profile: true
     * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-accent, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
   * Supervisor: Long Ma
-  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/)
+<!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
 * 2014.7-2017.7: AI Institute, **Qihoo360**
   * Speech Researcher
