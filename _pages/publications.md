@@ -21,6 +21,12 @@ author_profile: true
 <!--  * ISCA (International Speech Communication Association)-->
 
 ## Papers
+* <b>SonarGuard2: Ultrasonic Face Liveness Detection Based on Adaptive Doppler Effect Feature Extraction</b>. <br>
+Xiaoming Zhang, Keyue Zhang, Taiping Yao, <b>Songjun Cao</b>, Shouhong Ding, Long Ma. <i><b>INTERSPEECH 2025</b></i>. <br>
+* <b>MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt</b>. <br>
+Zhichao Wu, Yueteng Kang, <b>Songjun Cao</b>, Long Ma, Qiulin Li, Qun Yang. <i><b>INTERSPEECH 2025</b></i>. <br>
+* <b>Monotonic Attention for Robust Text-to-Speech Synthesis in Large Language Model Frameworks</b>. <br>
+Yike Zhang, Yiming Li, Jie Chen, Qinghua Wu, <b>Songjun Cao</b>, Long Ma. <i><b>INTERSPEECH 2025</b></i>. <br>
 * <b>DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models</b>. <br>
 Weihao Wu\*, Zhiwei Lin\*, Yixuan Zhou, Jingbei Li, Rui Niu, Qinghua Wu, <b>Songjun Cao</b>, Long Ma, Zhiyong Wu. <i><b>ICASSP 2025</b></i>. <br>
 * <b>M-MoE: Mixture of Mixture-of-Expert Model for CTC-based Streaming Multilingual ASR</b>. <br>
