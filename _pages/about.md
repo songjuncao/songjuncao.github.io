@@ -19,7 +19,7 @@ My research interests include speech understanding, speech generation, multi-mod
 - 2025-05: Three papers accepted by **Interspeech 2025**
 - 2024-12: Two papers accepted by **ICASSP 2025**
 - 2024-06: One paper accepted by **Interspeech 2024**
-- 2024-02: **Executive Committee** of CCF TCSDAP
+- 2024-02: **Executive Committee** of CCF TCSDAP (语音对话与听觉专业委员会)
 - 2023-01: Rank as the **1st** place in **Speech Security Inspection Competition**
 - 2022-06: One paper accepted by **Interspeech 2022**
 - 2022-05: A talk named **"Introduction to automatic speech recognition and speech self-supervised learning"**, organised by GouXiongHui.
