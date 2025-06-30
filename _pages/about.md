@@ -15,6 +15,22 @@ My research interests include speech understanding, speech generation, multi-mod
 <!--One of my ambition is to **gracefully** solve products' challenge with **new algorithms**.-->
 <!--**I am looking for highly-motivated people to collaborate or for internship**. If you are interested, just send your CV to xmdxcsj@gmail.com.-->
 
+## Academic service
+* Reviewer
+  * JASA Express Letters
+  * Transactions on Audio, Speech and Language Processing (TASLP)
+  * Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+  * ACM Multimedia (ACMMM)
+  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  * International Speech Communication Association (Interspeech)
+  * National Conference on Man-Machine Speech Communication (NCMMSC)
+  * Engineering Applications of Artificial Intelligence (EAAI)
+  * International Joint Conference on Neural Networks (IJCNN)
+* Executive Committee of CCF TCSDAP （Speech Dialogue and Auditory Processing）
+<!--* Academic Membership-->
+<!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
+<!--  * ISCA (International Speech Communication Association)-->
+
 ## News
 - 2024-12: Two papers accepted by **ICASSP 2025**
 - 2024-06: One paper accepted by **Interspeech 2024**
