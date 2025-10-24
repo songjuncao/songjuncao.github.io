@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Papers
+## Papers (Please refer to [my scholar page](https://scholar.google.com/citations?hl=en&user=0H6jEP8AAAAJ))
 * <b>SonarGuard2: Ultrasonic Face Liveness Detection Based on Adaptive Doppler Effect Feature Extraction</b>. <br>
 Xiaoming Zhang, Keyue Zhang, Taiping Yao, <b>Songjun Cao</b>, Shouhong Ding, Long Ma. <i><b>INTERSPEECH 2025</b></i>. <br>
 * <b>MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt</b>. <br>
