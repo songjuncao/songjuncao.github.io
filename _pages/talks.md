@@ -3,6 +3,11 @@ title: "Talks&Competitions"
 permalink: /talks/
 author_profile: true
 ---
+## 2025
+* <b>Competition: 2025全球AI攻防挑战赛-赛道三：泛终端智能语音交互认证-检测赛</b>. <br>
+Aug, 2025 <br>
+Ranking: <b> 6/360 </b> <br>
+
 ## 2023
 * <b>Competition: Speech Security Inspection</b>. <br>
 Jan, 2023 <br>
