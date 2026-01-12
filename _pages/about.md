@@ -18,7 +18,8 @@ My research interests include speech understanding, speech generation, multi-mod
 ## Academic service
 * Reviewer
   * TASLP/TALLIP/EAAI/JASA Express Letters
-  * ACMMM/AAAI/ICASSP/Interspeech/NCMMSC/IJCNN
+  * ACL/ACMMM/AAAI
+  * ICASSP/Interspeech/NCMMSC/IJCNN
 <!--  * Transactions on Audio, Speech and Language Processing (TASLP) -->
 <!--  * Transactions on Asian and Low-Resource Language Information Processing (TALLIP) -->
 <!--  * ACM Multimedia (ACMMM) -->
