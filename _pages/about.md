@@ -34,6 +34,7 @@ My research interests include speech understanding, speech generation, multi-mod
 <!--  * ISCA (International Speech Communication Association)-->
 
 ## News
+- 2026-01: One paper accepted by **ICASSP 2026**
 - 2025-11: One paper accepted by **AAAI 2026**
 - 2025-05: Three papers accepted by **Interspeech 2025**
 - 2024-12: Two papers accepted by **ICASSP 2025**
