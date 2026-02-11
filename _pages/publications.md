@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Papers (Please refer to [my scholar page](https://scholar.google.com/citations?hl=en&user=0H6jEP8AAAAJ))
-* <b>LEVERAGING LARGE MULTIMODAL MODELS FOR AUDIO-VIDEO DEEPFAKE DETECTION: A PILOT STUDY</b>. <br>
+* <b>Leveraging Large Multimodal Models for Audio-Video Deepfake Detection: A Pilot Study</b>. <br>
 <b>Songjun Cao\*</b>, Yuqi Li\*, Yunpeng Luo, Jianjun Yin, Long Ma. <i><b>ICASSP 2026</b></i>. <br>
 * <b>Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception</b>. <br>
 Yuankun Xie, Ruibo Fu, Zhiyong Wang, Xiaopeng Wang, <b>Songjun Cao</b>, Long Ma, Haonan Cheng, Long Ye. <i><b>AAAI 2026</b></i>. <br>
