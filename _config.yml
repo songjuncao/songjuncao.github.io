@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=0H6jEP8AAAAJ&hl=zh-CN"#""
   email            : "xmdxcsj@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  blog             : "https://blog.csdn.net/xmdxcsj"
+  blog             : #"https://blog.csdn.net/xmdxcsj"
   uri              :
   bitbucket        :
   codepen          :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/xmdxcsj"
+  zhihu            : #"https://www.zhihu.com/people/xmdxcsj"
 
 # Reading Files
 include:
