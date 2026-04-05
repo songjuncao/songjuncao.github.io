@@ -13,7 +13,9 @@ author_profile: true
 
 ## Work experience
 * 2017.7-Now: **Tencent**
-  * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
+  * Role:
+    * Senior Applied Researcher(**T11**)
+<!--**Executive Member of Tencent CSIG Rank Evaluation Committee**-->
   * Projects:
     * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob) (2024.11-2026.03)
       * LLM/MLLM: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
@@ -28,14 +30,11 @@ author_profile: true
 <!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
 * 2014.7-2017.7: AI Institute, **Qihoo360**
-  * Speech Researcher
-  * Products:
-    * [360 search](https://www.so.com/)
-    * [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02)
-    * [palm input](http://www.xinshuru.com/win_record.html)
-  * Duties included:
-    * Speech recognition: LM training, AM training, Decoder development
-    * Sound event detection: Detection of baby crying
-    * Speech2Sing: A joint project with [A*STAR](https://www.a-star.edu.sg/), supervised by [Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN)
+  * Role: Speech Researcher
+  * Projects:
+    * [360 search](https://www.so.com/) / [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02) / [palm input](http://www.xinshuru.com/win_record.html)
+      * Speech recognition: LM training, AM training, Decoder development
+      * Sound event detection: Detection of baby crying
+      * Speech2Sing: A joint project with [A*STAR](https://www.a-star.edu.sg/), supervised by [Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN)
   * Supervisor: Lu Qi, Zhanlei Yang
 
