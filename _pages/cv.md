@@ -12,10 +12,10 @@ author_profile: true
 
 
 ## Work experience
-* 2017.7-Now: **Tencent**
-  * Role:
-    * Senior Applied Researcher(**T11**)
+<!--  * Role:-->
+<!--    * Senior Applied Researcher(**T11**)-->
 <!--**Executive Member of Tencent CSIG Rank Evaluation Committee**-->
+* 2017.7-Now: **Tencent**
   * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob) (2024.11-2026.03)
     * LLM/MLLM: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
   * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams) (2024.11-now)
@@ -28,8 +28,8 @@ author_profile: true
 <!--  * Supervisor: Long Ma -->
 <!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
+<!--  * Role: Speech Researcher -->
 * 2014.7-2017.7: AI Institute, **Qihoo360**
-  * Role: Speech Researcher
   * [360 search](https://www.so.com/) / [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02) / [palm input](http://www.xinshuru.com/win_record.html)
     * Speech recognition: LM training, AM training, Decoder development
     * Sound event detection: Detection of baby crying
