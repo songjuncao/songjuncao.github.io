@@ -15,21 +15,21 @@ author_profile: true
 <!--  * Role:-->
 <!--    * Senior Applied Researcher(**T11**)-->
 <!--**Executive Member of Tencent CSIG Rank Evaluation Committee**-->
-* 2017.7-Now: **Tencent**
-  * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob) (2024.11-2026.03)
-    * LLM/MLLM: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
-  * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams) (2024.11-now)
+* 2017.07-Now: **Tencent**
+  * 2024.11-now: [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams)
     * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
-  * [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh) (2024.01-2024.11)
+  * 2024.11-2026.03: [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob)
+    * LLM/MLLM: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
+  * 2024.01-2024.11: [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
     * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
-  * [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)/[Tencent Map](https://map.qq.com/)/[Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html) (2017.08-2023.12)
+  * 2017.08-2023.12: [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)/[Tencent Map](https://map.qq.com/)/[Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html)
     * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-accent, Multi-dialect, Multi-lingual
     * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
 <!--  * Supervisor: Long Ma -->
 <!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
 <!--  * Role: Speech Researcher -->
-* 2014.7-2017.7: AI Institute, **Qihoo360**
+* 2014.07-2017.07: AI Institute, **Qihoo360**
   * [360 search](https://www.so.com/) / [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02) / [palm input](http://www.xinshuru.com/win_record.html)
     * Speech recognition: LM training, AM training, Decoder development
     * Sound event detection: Detection of baby crying
