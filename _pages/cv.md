@@ -15,6 +15,7 @@ author_profile: true
 * 2017.7-Now: **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
   * Products:
+    * [Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob)
     * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)
     * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams)
     * [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
@@ -22,7 +23,7 @@ author_profile: true
     * [Tencent Map](https://map.qq.com/)
     * [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html)
   * Duties included:
-    * LLM application: Hunyuan LLM for education
+    * LLM application: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
     * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
     * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
     * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-accent, Multi-dialect, Multi-lingual
