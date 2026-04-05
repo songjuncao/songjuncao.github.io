@@ -14,20 +14,16 @@ author_profile: true
 ## Work experience
 * 2017.7-Now: **Tencent**
   * Senior Applied Researcher(**T11**), **Executive Member of Tencent CSIG Rank Evaluation Committee**
-  * Products:
-    * [Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob)
-    * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)
-    * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams)
-    * [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh)
-    * [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)
-    * [Tencent Map](https://map.qq.com/)
-    * [Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html)
-  * Duties included:
-    * LLM application: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
-    * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
-    * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
-    * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-accent, Multi-dialect, Multi-lingual
-    * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
+  * Projects:
+    * [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob) (2024.11-2026.03)
+      * LLM/MLLM: Exam Grading, Essay Grading, Spoken Language Coaching, K-12 Problem-Solving 
+    * [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams) (2024.11-now)
+      * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
+    * [Tencent Cloud AI Digital Human](https://cloud.tencent.com/product/ivh) (2024.01-2024.11)
+      * Speech Generation: Zero-shot Voice Conversion, Zero-shot TTS, Speech LLM
+    * [Tencent Internet of Vehicles](https://cloud.tencent.com/solution/auto)/[Tencent Map](https://map.qq.com/)/[Tencent Dingdang Speaker](https://dingdang.qq.com/dingdang_speaker.html) (2017.08-2023.12)
+      * Speech Recognition: Hybrid ASR, E2E ASR, VAD, Self-supervised learning, Multi-accent, Multi-dialect, Multi-lingual
+      * Speaker Recognition: A joint project with [Rohan Kumar Das](https://sites.google.com/view/rohankumardas) from NUS, supervised by [Haizhou Li](https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en)
   * Supervisor: Long Ma
 <!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
