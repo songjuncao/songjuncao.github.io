@@ -15,7 +15,7 @@ author_profile: true
 <!--  * Role:-->
 <!--    * Senior Applied Researcher(**T11**)-->
 <!--**Executive Member of Tencent CSIG Rank Evaluation Committee**-->
-* 2017.07-Now: **Tencent**
+* 2017.07-Now: **Tencent**, CSIG
   * 2024.11-now: [Tencent Cloud Audio Moderation System](https://cloud.tencent.com/product/ams)
     * Audio Security: Audio Event Detection, Speaker Verification, Deepfake Speech
   * 2024.11-2026.03: [Tencent Hunyuan](https://cloud.tencent.com/product/hunyuan)/[Grading Agent](https://ocrdemo.cloud.tencent.com/?action=SubmitQuestionMarkAgentJob)
@@ -29,7 +29,7 @@ author_profile: true
 <!--  * Manager: [Dong Yu](https://sites.google.com/view/dongyu888/) -->
 
 <!--  * Role: Speech Researcher -->
-* 2014.07-2017.07: AI Institute, **Qihoo360**
+* 2014.07-2017.07: **Qihoo360**, AI Institute
   * [360 search](https://www.so.com/) / [360 children watch, 360 children robot, 360 camera](https://mall.360.cn/ac/360PPR?utm_source=guanwanggd02) / [palm input](http://www.xinshuru.com/win_record.html)
     * Speech recognition: LM training, AM training, Decoder development
     * Sound event detection: Detection of baby crying
