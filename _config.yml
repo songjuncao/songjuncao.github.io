@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Songjun Cao"
 title_separator          : "-"
 name                     : &name "Songjun Cao"
-description              : &description "Senior Applied Researcher at Tencent"
+description              : &description "Principal Researcher at Tencent"
 url                      : https://songjuncao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "songjuncao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Songjun Cao"
   avatar           : "profile.png"
-  bio              : "Senior Applied Researcher at Tencent"
+  bio              : "Principal Researcher at Tencent"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
