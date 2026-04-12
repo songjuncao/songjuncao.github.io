@@ -49,3 +49,11 @@ My research interests include speech understanding, speech generation, multi-mod
 - 2020-10: One paper accepted by **SLT 2021**
 - 2020-09: Rank as **1/40** in **Interspeech 2020 Accented English Speech Recognition Challenge**
 - 2020-07: A talk named **"To Build A Robust ASR System In The Car"**, organised by Tencent Cloud Xiaowei.
+
+## Visitor Map
+<div style="text-align:center; margin-top:10px;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Z4Z6X3j8dkjGJYa5hgWRS9G5BH-g5S7IMLkzcmYeL88&cl=ffffff&w=400&t=tt"></script>
+</div>
+<p style="text-align:center; font-size:0.85em; color:#888;">
+  <a href="/visitormap/" style="color:#52adc8;">View full visitor map →</a>
+</p>

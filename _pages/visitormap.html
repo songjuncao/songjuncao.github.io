@@ -1,0 +1,73 @@
+---
+layout: archive
+title: "Visitor Map"
+permalink: /visitormap/
+author_profile: true
+---
+
+<style>
+  .visitor-map-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .visitor-map-container h2 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-size: 1.3em;
+    color: #333;
+  }
+  .visitor-map-container p {
+    color: #666;
+    font-size: 0.95em;
+    margin-bottom: 1em;
+  }
+  .clustrmaps-wrapper {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .visitor-note {
+    margin-top: 30px;
+    padding: 15px 20px;
+    background: #f8f9fa;
+    border-left: 4px solid #52adc8;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #555;
+  }
+</style>
+
+<div class="visitor-map-container">
+
+  <h2>🌍 Visitor Statistics by Region</h2>
+  <p>This map shows the geographic distribution of visitors to this site.</p>
+
+  <div class="clustrmaps-wrapper">
+    <!-- ClustrMaps Globe Widget -->
+    <script type="text/javascript" id="clstr_globe"
+      src="//clustrmaps.com/globe.js?d=Z4Z6X3j8dkjGJYa5hgWRS9G5BH-g5S7IMLkzcmYeL88">
+    </script>
+    <noscript>
+      <a href="https://clustrmaps.com/site/1c9pq">
+        <img src="//clustrmaps.com/map_v2.png?d=Z4Z6X3j8dkjGJYa5hgWRS9G5BH-g5S7IMLkzcmYeL88&cl=ffffff&w=a"
+             alt="Visitor Map" />
+      </a>
+    </noscript>
+  </div>
+
+  <h2>📊 Flat Map View</h2>
+  <div class="clustrmaps-wrapper">
+    <!-- ClustrMaps Flat Map Widget -->
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?d=Z4Z6X3j8dkjGJYa5hgWRS9G5BH-g5S7IMLkzcmYeL88&cl=ffffff&w=600&t=tt">
+    </script>
+  </div>
+
+  <div class="visitor-note">
+    <strong>Note:</strong> The visitor map is powered by
+    <a href="https://clustrmaps.com/" target="_blank" rel="noopener">ClustrMaps</a>.
+    Data is collected anonymously and only shows approximate geographic locations of visitors.
+    No personal information is tracked.
+  </div>
+
+</div>
