@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Papers (Please refer to [my scholar page](https://scholar.google.com/citations?hl=en&user=0H6jEP8AAAAJ))
+* <b>Diffusion Reconstruction towards Generalizable Audio Deepfake Detection</b>. <br>
+Bo Cheng, <b>Songjun Cao</b>, Xiaoming Zhang, Jie Chen, Long Ma, Fei Chen. <i><b>Interspeech 2026</b></i>. <br>
 * <b>Leveraging Large Multimodal Models for Audio-Video Deepfake Detection: A Pilot Study</b>. <br>
 <b>Songjun Cao\*</b>, Yuqi Li\*, Yunpeng Luo, Jianjun Yin, Long Ma. <i><b>ICASSP 2026</b></i>. <br>
 * <b>Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception</b>. <br>
