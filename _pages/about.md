@@ -28,7 +28,7 @@ My research interests include speech understanding, speech generation, multi-mod
 <!--  * National Conference on Man-Machine Speech Communication (NCMMSC) -->
 <!--  * Engineering Applications of Artificial Intelligence (EAAI) -->
 <!--  * International Joint Conference on Neural Networks (IJCNN) -->
-* Executive Committee of CCF TCSDAP （Speech Dialogue and Auditory Processing）
+* Executive Committee of CCF TCSDAP （语音对话与听觉专业委员会）
 <!--* Academic Membership-->
 <!--  * IEEE/IEEE-SPS (Signal Processing Society)-->
 <!--  * ISCA (International Speech Communication Association)-->
